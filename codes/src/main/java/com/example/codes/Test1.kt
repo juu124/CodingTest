@@ -14,8 +14,6 @@ fun main() {
         numbers.add(num)
     }
 
-//    println("")
-
     // sort 시작
     // case : bubble sort
     val sort = bubbleSort(numbers.toIntArray())
