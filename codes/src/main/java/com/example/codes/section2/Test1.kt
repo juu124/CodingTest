@@ -1,4 +1,4 @@
-package com.example.codes
+package com.example.codes.section2
 // 백준 간단한 수학 문제 풀이
 fun main() {
 
