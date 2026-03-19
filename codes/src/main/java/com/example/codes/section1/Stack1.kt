@@ -1,6 +1,7 @@
-package com.example.codes
+package com.example.codes.section1
 
 import java.util.Stack
+import kotlin.text.iterator
 
 // happy -> [h, a, p, p, y] -> [y, p, p, a, h]
 private fun reverse(input: String): String {

@@ -1,4 +1,4 @@
-package com.example.codes
+package com.example.codes.section1
 
 import java.util.Collections
 import java.util.PriorityQueue
